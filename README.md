@@ -1,4 +1,4 @@
-### Grupo de Astronomia da Seara da Ciência
+# Grupo de Astronomia da Seara da Ciência
 
 ## Astronomia
 
@@ -8,6 +8,6 @@
 
 ## Astronáutica
 
-# Aviônica
-# Mecânica
-# Propulsão
+### Aviônica
+### Mecânica
+### Propulsão
